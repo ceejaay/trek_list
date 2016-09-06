@@ -1,2 +1,2 @@
-require './trek_list'
-run Sinatra::Application
+source 'https://rubygems.org'
+gem 'sinatra'
